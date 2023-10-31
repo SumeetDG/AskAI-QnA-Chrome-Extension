@@ -1,0 +1,2 @@
+key_1 = "API_KEY_1_OF_OPENAI"
+key_2 = "API_KEY_2_OF_OPENAI"
